@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Session_1/">
+    <Project Path="Session_1/Session_1.csproj" />
+  </Folder>
+  <Folder Name="/Session_2/">
+    <Project Path="Session_2/Session_2_Lommeregner.csproj" />
+  </Folder>
+</Solution>
