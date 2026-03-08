@@ -5,4 +5,8 @@
   <Folder Name="/Session_2/">
     <Project Path="Session_2/Session_2_Lommeregner.csproj" />
   </Folder>
+  <Folder Name="/Training/">
+    <Project Path="Training/TestTraining/TestTraining.csproj" Id="33168447-d5f4-4135-968c-caf03fa7617d" />
+    <Project Path="Training/Training/Training.csproj" Id="34114d25-6c68-4c71-a6cf-4fb62c91dbaf" />
+  </Folder>
 </Solution>
