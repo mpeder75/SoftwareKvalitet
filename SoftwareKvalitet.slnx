@@ -5,4 +5,7 @@
   <Folder Name="/Session_2/">
     <Project Path="Session_2/Session_2_Lommeregner.csproj" />
   </Folder>
+  <Folder Name="/Session_5/">
+    <Project Path="Session_5_FluentAssertions/FluentAssertionsTests.csproj" />
+  </Folder>
 </Solution>
